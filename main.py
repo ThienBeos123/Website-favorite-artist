@@ -5,9 +5,9 @@ st.set_page_config(
     page_icon=":notes:",
     layout="wide")
 
-img_path = "C:/Users/Admin/Music/den-vau-chang-rapper-day-tai-nang.jpg"
-img_path2 = "C:/Users/Admin/Music/images.jfif"
-audio_path = open("C:/Users/Admin/Music/Đen - Lối Nhỏ ft. Phương Anh Đào (MV).mp3", "rb")
+img_path = "required elements/den-vau-chang-rapper-day-tai-nang.jpg"
+img_path2 = "required elements/images.jfif"
+audio_path = open("required elements/Đen - Lối Nhỏ ft. Phương Anh Đào (MV).mp3", "rb")
 vid_path = "https://youtu.be/KKc_RMln5UY?si=CibJGFrA20oZR5Nn"
 
 st.title("**Ca sĩ yêu thích** :violin:")
